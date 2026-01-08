@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "name": "elective-landing"
+  "name": "elective-landing",
+  "routes": [
+    { "src": "/account-deletion", "dest": "/account-deletion.html" }
+  ]
 }
